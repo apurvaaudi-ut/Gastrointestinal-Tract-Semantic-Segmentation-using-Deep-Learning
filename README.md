@@ -1,8 +1,8 @@
 # Gastrointestinal-Tract-Semantic-Segmentation-using-Deep-Learning
 
-Group Members: Aashi Aashi (AA92533), Apurva Audi (AA85254), Manvi Goyal (MG65952), Praneet Kumar Alamuri (PA22222),Shreyansh Agrawal (SA55742)
+## Group Members: Aashi Aashi (AA92533), Apurva Audi (AA85254), Manvi Goyal (MG65952), Praneet Kumar Alamuri (PA22222),Shreyansh Agrawal (SA55742)
 
-Medium Blog link: 
+## Medium Blog link: 
 
 Approximately 5 million new cases of gastrointestinal cancer are reported every year around the world, and 3.4 million result in deaths. Of these patients, only about half are eligible for radiation therapy.Radiation therapy necessitates the delivery of high doses of X-ray beam radiation pointed at tumors. Radiation oncologists must try to avoid the stomach and intestines while administering the treatment. However, even with the latest technologies such as MR-Linacs which allow the daily visualization of the position of the tumor and intestines, oncologists have to manually outline the position of the stomach and intestines daily in order to calibrate the direction of the x-ray beams. Unfortunately, this is both a time-consuming and labor-intensive process that can prolong daily treatments significantly, which can be difficult for patients to tolerate.
 
